@@ -15,6 +15,8 @@ public class Gravitacija {
         double izracunanPospesek = izracun(n);
         izpis(n, izracunanPospesek);
     }
+    public static void izpis(double a, double b){
+        System.out.println(a);
+        System.out.println(b);
+    }
 }
-
-
